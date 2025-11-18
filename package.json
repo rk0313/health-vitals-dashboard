@@ -4,16 +4,16 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-  "dev": "vite",
-  "build": "npx vite build", 
-  "preview": "vite preview"
+    "dev": "vite",
+    "build": "npx vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "vue": "^3.3.4",
     "vuex": "^4.0.2"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^4.2.3",
+    "@vitejs/plugin-vue": "^6.0.1",
     "vite": "^6.4.1"
   }
 }
